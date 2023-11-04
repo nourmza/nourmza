@@ -24,16 +24,7 @@
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-<!-- [![Twitter Badge](https://img.shields.io/badge/-@AzizBenIsmail-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BenIsmalAziz1?s=07)](https://twitter.com/BenIsmalAziz1?s=07)  -->
-[![Linkedin Badge](https://img.shields.io/badge/-Nour Mzahi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nourmzahi/) 
-[![Mail Badge](https://img.shields.io/badge/-@Nour Mzahi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/nourmzahi/)
-[![Mail Badge](https://img.shields.io/badge/-Nour Mzahi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:imznour20@gmail.com)
 
-<!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7tdKHWp7O-hWY_vpd8qBUw?style=social)
-![GitHub followers](https://img.shields.io/github/followers/AzizBenIsmail?style=social)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AzizBenIsmail.AzizBenIsmail)
-<img src="https://img.shields.io/badge/Age-21-blue" />
 
 <!-- Ligne  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
