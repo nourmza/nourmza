@@ -51,18 +51,13 @@
 ![Nour's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nourmza&theme=algolia&layout=compact)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inourmza&show_icons=true&theme=algolia)](https://github.com/nourmza)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismailgharnougui&&theme=algolia" alt="ismailgharnougui" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nourmza&&theme=algolia" alt="nourmza" /></p>
 
-<img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=ismailgharnougui&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=nourmza&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <div align="center" >
 
-| Choose your language         | Flags                                                                                                              |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| [EN-US](./README.md)       | <img width="15%" alt="Node4Devs Logo" title="United States Flag (USA)" src="./assets/images/flags/USA.png" /> |
-| [FR-FRA](./README-FR-FRA.md) | <img width="15%" alt="Node4Devs Logo" title="France Flag (FR)" src="./assets/images/flags/France.png" />        |
-| [AR-SA](./README-AR-SA.md) | <img width="15%" alt="Node4Devs Logo" title="Saudi Flag (SA)" src="./assets/images/flags/saudi_ arabia.jpg" />        |
 
 </div>
 <!-- Ligne  -->
